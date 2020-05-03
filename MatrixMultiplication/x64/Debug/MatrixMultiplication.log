@@ -1,0 +1,3 @@
+﻿  MatrixMultiplication.cpp
+C:\Users\Amr Abdelkader\Desktop\Projects\OpenCLSeminar\MatrixMultiplication\MatrixMultiplication.cpp(168,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  MatrixMultiplication.vcxproj -> C:\Users\Amr Abdelkader\Desktop\Projects\OpenCLSeminar\x64\Debug\MatrixMultiplication.exe

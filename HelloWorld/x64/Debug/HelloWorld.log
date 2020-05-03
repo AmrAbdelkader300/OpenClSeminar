@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Amr Abdelkader\Desktop\Projects\OpenCLSeminar\HelloWorld\Source.cpp(40,17): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Amr Abdelkader\Desktop\Projects\OpenCLSeminar\HelloWorld\Source.cpp(41,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  HelloWorld.vcxproj -> C:\Users\Amr Abdelkader\Desktop\Projects\OpenCLSeminar\x64\Debug\HelloWorld.exe

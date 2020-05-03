@@ -1,0 +1,7 @@
+﻿  opencl-info.cpp
+C:\Users\Amr Abdelkader\Desktop\Projects\OpenCLSeminar\PrintOpenCLInfo\opencl-info.cpp(49,17): warning C4244: 'initializing': conversion from 'cl::detail::param_traits<cl::detail::cl_device_info,4096>::param_type' to 'unsigned int', possible loss of data
+C:\Users\Amr Abdelkader\Desktop\Projects\OpenCLSeminar\PrintOpenCLInfo\opencl-info.cpp(96,17): warning C4244: 'initializing': conversion from 'cl::detail::param_traits<cl::detail::cl_device_info,4123>::param_type' to 'unsigned int', possible loss of data
+C:\Users\Amr Abdelkader\Desktop\Projects\OpenCLSeminar\PrintOpenCLInfo\opencl-info.cpp(106,17): warning C4244: 'initializing': conversion from 'cl::detail::param_traits<cl::detail::cl_device_info,4146>::param_type' to 'unsigned int', possible loss of data
+C:\Users\Amr Abdelkader\Desktop\Projects\OpenCLSeminar\PrintOpenCLInfo\opencl-info.cpp(139,17): warning C4244: 'initializing': conversion from 'cl::detail::param_traits<cl::detail::cl_device_info,4137>::param_type' to 'unsigned int', possible loss of data
+C:\Users\Amr Abdelkader\Desktop\Projects\OpenCLSeminar\PrintOpenCLInfo\opencl-info.cpp(143,17): warning C4244: 'initializing': conversion from 'cl::detail::param_traits<cl::detail::cl_device_info,4138>::param_type' to 'unsigned int', possible loss of data
+  PrintOpenCLInfo.vcxproj -> C:\Users\Amr Abdelkader\Desktop\Projects\OpenCLSeminar\x64\Debug\PrintOpenCLInfo.exe
